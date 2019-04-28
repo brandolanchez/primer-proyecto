@@ -1,5 +1,5 @@
 
-var nombre=prompt("introduce nombre");
+var nombre=prompt("introduce apellido");
 var apellido=prompt("introduce apellido");
 var edad=prompt("introduce tu edad");
 var restando=prompt("cuantos anios deseas quitarte?");
